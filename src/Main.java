@@ -13,5 +13,8 @@ public class Main {
         arrD = new int[][]{arr,arrTwo};
         System.out.println(Arrays.toString(arr));
         System.out.println(Arrays.deepToString(arrD));
+        for (int i = 0; i < 10; i++) {
+            
+        }
     }
 }
